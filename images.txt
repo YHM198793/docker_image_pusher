@@ -6,3 +6,4 @@ xhofe/alist:latest
 --platform=linux/arm64 xiaoyaliu/alist
 zhayujie/chatgpt-on-wechat:latest
 setube/vue-xiuxiangame
+doubebly/doube-itv
