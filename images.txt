@@ -7,3 +7,4 @@ xhofe/alist:latest
 zhayujie/chatgpt-on-wechat:latest
 setube/vue-xiuxiangame
 chigusa_bililive-go
+nginx
